@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722959697333",
+    "project_id": "arcadia-68d10",
+    "storage_bucket": "arcadia-68d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722959697333:android:0057eca035147b25d185fc",
+        "android_client_info": {
+          "package_name": "com.example.arcadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722959697333-0cj4on93oqins9jjfrjb9te31krkqdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMbmpogJc3ufQqKKOVlO6sr5fOOZHLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722959697333-0cj4on93oqins9jjfrjb9te31krkqdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
